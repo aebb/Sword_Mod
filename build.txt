@@ -1,0 +1,3 @@
+displayName = Sword_Mod
+author = aebb
+version = 0.1
