@@ -1,1 +1,1 @@
-# Terraria_Sword_Mod
+# Sword mod for tModLoader
